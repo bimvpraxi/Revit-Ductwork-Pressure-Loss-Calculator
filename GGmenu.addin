@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>GGmenu</Name>
+    <Assembly>GGmenu.dll</Assembly>
+    <AddInId>5c3f0140-12e8-4479-8d66-04be6d5843eb</AddInId>
+    <FullClassName>RevitAddin1.App</FullClassName>
+	<Publisher>Michal Novacek</Publisher>
+    <VendorId>Michal Novacek</VendorId>
+    <VendorDescription>AIU FAST</VendorDescription>
+  </AddIn>
+</RevitAddIns>
