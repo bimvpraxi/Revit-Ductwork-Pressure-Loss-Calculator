@@ -1,13 +1,13 @@
-# Revit Ductwork Pressure Loss Calculator
-Revit ductwork pressure loss calculator using Czech Revit version parameters and built-in Revit parameters for calculating straight duct pipes pressure loss and a text file filled with editable local pressure loss coefficients for duct fitting pressure losses. Addin calculate all pressure losses in selection and make sum of them.
+# Revit VZT tlakové ztráty
+Nástroj využívá geometrické parametry české verze Revitu pro výpočet tlakových ztrát na přímách kusech potrubí a editovatelný textový soubor s koeficienty místních tlakových ztrát pro výpočet tlakových ztrát v tvarovkách.
 
-This addin works only with Revit czech language version. App was tested for Revit 2020. Other versions were not tested.
+Nástroj funguje zatím pouze pro českou verzi Revitu (tedy české názvy parametrů). Aplikace byla otestována pro Revit 2020, ostatní verze testovány nebyly.
 
-# Installation:
-Put files GGmenu.dll and GGmenu.addin to the directory:
+# Instalace
+Vložte soubory GGmenu.dll a GGmenu.addin do následující složky:
 C:\Users\USER\AppData\Roaming\Autodesk\Revit\Addins\2020
 
-Put file Koeficienty.txt to the directory:
+Vložte soubor Koeficienty.txt do následující složky:
 C:\Program Files\Autodesk\Revit 2020
 
-Run Revit!
+Spusťte Revit!
