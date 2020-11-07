@@ -5,5 +5,7 @@ Nástroj funguje zatím pouze pro českou verzi Revitu (tedy české názvy para
 
 # Instalace
 Vložte soubory GGmenu.dll a GGmenu.addin do složky: C:\Users\USER\AppData\Roaming\Autodesk\Revit\Addins\2020
+
 Vložte soubor Koeficienty.txt do složky: C:\Program Files\Autodesk\Revit 2020
+
 Spusťte Revit.
